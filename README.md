@@ -1,1 +1,2 @@
-# workshop-git-1
+# Atelier Git & Github
+Voici mon premier commentaire dans un fichier README
